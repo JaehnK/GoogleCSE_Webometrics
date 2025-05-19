@@ -44,8 +44,4 @@ Google API 키 및 검색 엔진 ID 설정
 
 #### Google Colab에서 실행하기
 
-아래 버튼을 클릭하여 Google Colab에서 바로 실행할 수 있습니다:
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15MQt-cS9M3Xp4OwwOQmxUnS7OjkUh5zc#scrollTo=FVSY-HqiUZlN&uniqifier=1)
-
+googleCSE.ipynb 클릭 후, Open in Colab 버튼 클릭
